@@ -1,0 +1,27 @@
+Big SolidSnake
+Ornn_OTP
+Ornn
+VerderbenderTrank
+keinItem
+keinItem
+keinItem
+keinItem
+keinItem
+Abwehrtotem
+Mana und HP Reg da man sich den Rest eh auf der Lane kauft.
+MerkursSchuhe
+Hoellenmaske
+SonnenfeuerUmhang
+Dornenpanzer
+Geistessicht
+RedlichePracht
+"Offensives" Tankbuild mit dem man viele 1v1 gewinnt. Reihenfolge kann man an Matchups anpassen. Redliche Pracht als first Item ist auch gut möglich. In ausgeglichenen sowie gegnerischen Teams mit viel AP wird die Höllenmaske ausgebaut. Gegen viel AD kann der Sonnenfeuer-Umhang ausgebaut werden. Zudem kann bei Bedarf der Dornenpanzer mit einem Adaptiven Helm austauschen.
+
+Entschlossenheit
+KeystoneII
+PriIRuneII
+PriIIRuneIII
+PriIIIRuneI
+Zauberei
+SecIRuneIII
+SecIRuneI
